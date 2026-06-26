@@ -1,0 +1,3 @@
+# pandas and pytest are libraries
+pandas
+pytext  # unit testing of python can be carriedout using pytest library
